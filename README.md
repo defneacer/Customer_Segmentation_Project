@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The primary goal of this project is to analyze customer behavior and segment customers into different groups using clustering techniques. This segmentation helps the mall management understand the shopping patterns and preferences of their customers. By identifying key customer segments, the mall can target marketing strategies more effectively and improve customer satisfaction.
+The primary goal of this project is to analyze customer behavior and segment customers into different groups using clustering techniques. This segmentation helps the mall management understand the shopping patterns and preferences of their customers. By identifying key customer segments, the mall can target marketing strategies more effectively and improve customer satisfaction. 
 
 ## Dataset Overview:
 
